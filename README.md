@@ -1,4 +1,4 @@
-# An information-theoretic framework for understanding feed-forward loop abundances in transcriptional networks
+# An information-theoretic perspective on feed-forward loop abundances in transcriptional networks
 
 This repository contains the symbolic derivations and numerical codes associated with the manuscript **“An information-theoretic framework for understanding feed-forward loop abundances in transcriptional networks.”** The codes implement the linear-noise calculations, mutual-information decomposition, cross-entropy optimization, open-loop reference calculations, and Gillespie simulations used in the study.
 
